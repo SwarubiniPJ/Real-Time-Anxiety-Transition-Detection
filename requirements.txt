@@ -1,0 +1,15 @@
+setuptools==80.9.0
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.14.1
+matplotlib==3.8.0
+seaborn==0.13.2
+scikit-learn==1.5.2
+statsmodels==0.14.4
+neurokit2==0.2.10
+tsfresh==0.20.3
+antropy==0.1.6
+PyWavelets==1.7.0
+xgboost==2.1.1
+ipykernel==6.29.5
+jupyterlab==4.2.5

@@ -1,4 +1,4 @@
-# ECG responses to anxiety-labelled video clips
+# Cardiac Responses at Anxiety-Inducing Video Transitions: Physiological Effects, Protocol Confounding and Limits of ECG-Based Detection
 
 This repository contains the analysis code for the ECG transition and
 participant-independent state-classification study. The public code mirrors the
